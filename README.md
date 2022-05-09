@@ -1,3 +1,3 @@
-# minorMLprojects
+# MLprojects
 
-Adding some small projects I did here and there.
+Adding some small projects in Python.
